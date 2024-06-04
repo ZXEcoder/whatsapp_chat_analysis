@@ -3,7 +3,7 @@
 Welcome to the WhatsApp Chat Analysis project! This repository hosts a tool that allows you to analyze your WhatsApp group chat data. By using this tool, you can generate a comprehensive report of your group chat activities and visualize the data in various insightful ways.
 
 # IMPORTANT NOTICE
-first set your phone to am/pm format than export chat from whatsapp then upload .txt file in application
+✨ First set your phone to am/pm format than export chat from whatsapp then upload .txt file in application
 
 ## Features
 
