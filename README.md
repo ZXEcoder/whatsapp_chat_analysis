@@ -92,16 +92,16 @@ Check out the live demo of the application [here](https://huggingface.co/spaces/
 ### Screenshots
 
 #### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/1.png)
 
 #### Upload Chat File
-![Upload Chat File](screenshots/upload_chat_file.png)
+![Upload Chat File](screenshots/2.png)
 
 #### Message Analysis
-![Message Analysis](screenshots/message_analysis.png)
+![Message Analysis](screenshots/3.png)
 
 #### Word Cloud
-![Word Cloud](screenshots/word_cloud.png)
+![Word Cloud](screenshots/4.png)
 
 ## Contact
 
