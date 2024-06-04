@@ -89,6 +89,20 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Check out the live demo of the application [here](https://huggingface.co/spaces/SurajJha21/Whatsapp_chat_analysis).
 
+### Screenshots
+
+#### Home Page
+![Home Page](screenshots/home_page.png)
+
+#### Upload Chat File
+![Upload Chat File](screenshots/upload_chat_file.png)
+
+#### Message Analysis
+![Message Analysis](screenshots/message_analysis.png)
+
+#### Word Cloud
+![Word Cloud](screenshots/word_cloud.png)
+
 ## Contact
 
 If you have any questions, feel free to reach out:
